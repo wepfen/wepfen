@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wepfen&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+- 🌱 I’m currently learning RF and Hardware.
+- 🧠 I like playing CTF.
+- 📫 How to reach me: [Twitter](https://twitter.com/wepfen)
 
 <!--
 **wepfen/wepfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
