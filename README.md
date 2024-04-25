@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning RF and Hardware.
 - 🧠 I like playing CTF.
+- 📚 I'm a student in cybersecurity
 - 📫 How to reach me: [Twitter](https://twitter.com/wepfen)
 
 <!--
