@@ -2,10 +2,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wepfen&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-- 🌱 I’m currently learning RF and Hardware.
-- 🧠 I like playing CTF.
-- 📚 I'm a student in cybersecurity
-- 📫 How to reach me: [Twitter](https://twitter.com/wepfen)
+- 🌱 I’m currently learning IoT and Hardware.
+- 🧠 I like to play CTF.
+- 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
+- 📫 How to reach me: `wepfen` on Discord
 
 <!--
 **wepfen/wepfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
