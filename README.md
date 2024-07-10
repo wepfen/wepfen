@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning IoT and Hardware.
 - 🧠 I like to play CTF.
 - 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
-- 📫 How to reach me: `wepfen` on Discord
+- 📫 How to reach me: `.wepfen` on Discord
 
 <!--
 **wepfen/wepfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
