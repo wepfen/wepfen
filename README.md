@@ -1,7 +1,5 @@
 # Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wepfen&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 - 🌱 I’m currently learning IoT and Hardware.
 - 🧠 I like to play CTF.
 - 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
@@ -21,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![:wepfeuille](https://count.chiya.dev/get/@:wepfeuille?theme=rule34)
