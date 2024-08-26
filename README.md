@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-![:wepfeuille](https://count.getloli.com/get/@:wepfeuille?theme=asoul)
+![:wepfeuille](https://count.chiya.dev/get/@:wepfeuille?theme=asoul)
