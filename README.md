@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="display: flex; justify-content: space-between;">
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wepfen&&hide=html&bg_color=ffffff&text_color=070707&icon_color=1F6FEB&layout=compact&langs_count=5&card_width=445" style="margin-right: 10px;">
+</div>
 
 ![:wepfeuille](https://moe-counter.sakuras.in/get/@:wepfeuille?theme=asoul&length=4)
