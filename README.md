@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning IoT and Hardware.
+- 🌱 I’m currently interested in IoT security and Hardware.
 - 🧠 I like to play CTF.
 - 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
 - 📫 How to reach me: `wepfen` on Discord
