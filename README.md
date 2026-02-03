@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently interested in IoT security, Hardware and Blockchain.
+- 🌱 I’m currently interested in blockchain.
 - 🧠 I like to play CTF.
 - 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
 - 📫 How to reach me: `wepfen` on Discord
