@@ -1,6 +1,8 @@
+<img src="https://raw.githubusercontent.com/wepfen/wepfen/master/img/header.png" align="center">
+
 # Hi there 👋
 
-- 🌱 I’m currently interested in blockchain.
+- 🌱 I’m currently interested in blockchain (dev and security).
 - 🧠 I like useless projects.
 - 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
 - 📫 How to reach me: `wepfen` on Discord
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between;">
     <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wepfen&&hide=html&bg_color=ffffff&text_color=070707&icon_color=1F6FEB&layout=compact&langs_count=5&card_width=445" style="margin-right: 10px;">
+	<img align="center" alt="wepfen's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wepfen&theme=solarized" width=450px>
 </div>
 
 
