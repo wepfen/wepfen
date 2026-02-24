@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wepfen/wepfen/master/img/header.png" align="center" style="border-radius:15px">
+<img src="https://raw.githubusercontent.com/wepfen/wepfen/refs/heads/main/img/header.png" align="center" >
 
 
 # Hi there 👋
