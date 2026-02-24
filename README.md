@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/wepfen/wepfen/master/img/header.png" align="center">
+<img src="https://raw.githubusercontent.com/wepfen/wepfen/master/img/header.png" align="center" style="border-radius:15px">
+
 
 # Hi there 👋
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between;">
     <!-- Top Languages Card -->
-	<img align="center" alt="wepfen's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wepfen&theme=solarized" width=450px>
+	<!-- <img align="center" alt="wepfen's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wepfen&theme=solarized" width=450px> -->
 </div>
 
 
