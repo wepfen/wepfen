@@ -3,10 +3,10 @@
 
 # Hi there 👋
 
-- 🌱 I’m currently interested in blockchain (dev and security).
-- 🧠 I like useless projects.
-- 📚 I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
-- 📫 How to reach me: `wepfen` on Discord
+- I’m currently interested in blockchain (dev and security).
+- I like useless projects.
+- I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
+- `wepfen` on Discord
 
 <!--
 **wepfen/wepfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
