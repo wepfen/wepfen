@@ -6,7 +6,7 @@
 # Hi there 👋
 
 - I’m currently interested in blockchain (dev and security).
-- I like useless projects.
+- I like [useless projects](https://wepfen.github.io/off-topic/).
 - I'm a student in cybersecurity at [2600](https://www.ecole2600.com)
 - `wepfen` on Discord
 
